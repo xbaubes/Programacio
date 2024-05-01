@@ -1,2 +1,5 @@
-# Programacio
-Documentació per aprendre a programar
+# Programació
+Documentació per aprendre a desenvolupar software
+
+---
+
